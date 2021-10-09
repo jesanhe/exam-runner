@@ -1,0 +1,1366 @@
+{
+  "testId": "06e6e47d-8c8c-44f8-9db9-73e5fa344590",
+  "scoreConfig": {
+    "hitCoef": 1.0,
+    "failureCoef": 0.0,
+    "emptyCoef": 0.0,
+    "maxQualification": 10.0
+  },
+  "questions": [
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "56a594c1-6bde-4c1c-9374-cb1d3307b8f5",
+      "questionId": "2f4c93ad-b6a4-4c24-9339-b190994a115f",
+      "question": "Conforme a lo dispuesto en la CE, en las elecciones al Senado, en las provincias peninsulares se elegirán:",
+      "answers": [
+        { "right": true, "answer": "4 Senadores.", "id": 2 },
+        { "right": false, "answer": "3 Senadores.", "id": 1 },
+        { "right": false, "answer": "6 Senadores.", "id": 3 },
+        { "right": false, "answer": "2 Senadores.", "id": 0 }
+      ],
+      "explanation": "El artículo 69.2 dispone que \n\u003e\n2.*«**En cada provincia se elegirán cuatro Senadores** por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica*».",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "41c6369d-0764-4bdc-a70b-e8b1fbfb856a",
+      "questionId": "9e2acf61-b9f9-400e-9130-32d1f2291bcd",
+      "question": "Establece el artículo 87.1 de la Constitución que la iniciativa legislativa corresponde a:",
+      "answers": [
+        { "right": false, "answer": "Congreso.", "id": 0 },
+        {
+          "right": true,
+          "answer": "Todas las respuestas son correctas.",
+          "id": 3
+        },
+        { "right": false, "answer": "Senado.", "id": 1 },
+        { "right": false, "answer": "Gobierno.", "id": 2 }
+      ],
+      "explanation": "El artículo 87.1 de la CE establece que \n\u003e\nLa iniciativa legislativa corresponde al **Gobierno, al Congreso y al Senado**, de acuerdo con la Constitución y los Reglamentos de las Cámaras.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "220436a0-3f5d-44df-8c39-18e1724eee39",
+      "questionId": "e14d5644-36b1-4809-bf3a-35d3229238fe",
+      "question": "Cuando existan hechos que, en opinión del Defensor del Pueblo, revistan especial gravedad, podrá presentar un informe ante las Cortes que tendrá carácter:",
+      "answers": [
+        { "right": true, "answer": "Extraordinario.", "id": 3 },
+        { "right": false, "answer": "Formal.", "id": 1 },
+        { "right": false, "answer": "Informal.", "id": 2 },
+        { "right": false, "answer": "Ordinario.", "id": 0 }
+      ],
+      "explanation": "El artículo 32.2 de la LODP establece que «*Cuando la gravedad o urgencia de los hechos lo aconsejen podrá presentar un informe **extraordinario** que dirigirá a las Diputaciones Permanentes de las Cámaras si éstas no se encontraran reunidas»*."
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "56febe08-ac6f-4644-a3ae-eb4cf59bb1b7",
+      "questionId": "23cd817a-077d-4a06-bf32-6bd0fb5cfe31",
+      "question": "Indica en qué consistió la primera reforma de la CE y en qué fecha se llevó a cabo:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Modificación del artículo 13.1 el 27 de septiembre de 1992.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Modificación del artículo 13.2 el 27 de septiembre de 1992.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Modificación del artículo 13.1 el 27 de agosto de 1992.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Modificación del artículo 13.2 el 27 de agosto de 1992.",
+          "id": 3
+        }
+      ],
+      "explanation": "27 de agosto de 1992: se modifica el artículo 13.2 relativo al derecho de sufragio de los extranjeros en las elecciones municipales, adicionando al texto la palabra «pasivo»."
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "bc68710a-62ee-40c8-9862-35a1946a57dc",
+      "questionId": "667574b7-d408-4d66-823b-c5a90183c0e5",
+      "question": "Señale la afirmación incorrecta en relación al artículo 32 de la CE:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "La Constitución establece que el hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.",
+          "id": 0
+        },
+        {
+          "right": true,
+          "answer": "La Constitución dispone que la edad y la capacidad del hombre y la mujer para contraer matrimonio se alcanza con la mayoría de edad.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "La Constitución admite que el matrimonio podrá ser disuelto.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "La Constitución delega en la Ley la concreción de los derechos y deberes de los cónyuges.",
+          "id": 3
+        }
+      ],
+      "explanation": "Artículo 32. CE: \n\u003e\n1. El hombre y la mujer tienen derecho a contraer matrimonio con plena igualdad jurídica.\n\u003e\n2. La ley regulará las formas de matrimonio, **la edad** y capacidad para contraerlo, los derechos y deberes de los cónyuges, las causas de separación y disolución y sus efectos.\n\n\n\u003e\nNo es necesario tener 18 años para casarse, ya que los menores de edad pueden casarse con permiso de sus padres o tutores.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "e3f0184b-c0cf-440d-abb7-f48461cfead1",
+      "questionId": "721a3b9b-9e2a-4849-921e-b875c46398b3",
+      "question": "¿En qué artículo de la Constitución española se regula el derecho a la cláusula de conciencia y al secreto profesional?",
+      "answers": [
+        { "right": false, "answer": "En el artículo 24.", "id": 1 },
+        { "right": false, "answer": "En el artículo 27.", "id": 3 },
+        { "right": false, "answer": "En el artículo 19.", "id": 0 },
+        { "right": true, "answer": "En el artículo 20.", "id": 2 }
+      ],
+      "explanation": "Artículo 20. CE: \n\u003e\n1. Se reconocen y protegen los derechos: \n(...)\n\u003e\nd) \"*A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el **derecho a la cláusula de conciencia y al secreto profesional** en el ejercicio de estas libertades.*\"",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "8d36e63c-ba70-4e08-a284-85ca191b4705",
+      "questionId": "319a3508-5bd8-4a44-bd9f-986bbd20f36a",
+      "question": "La Ley, según la Constitución:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Regulará las bases para la culminación satisfactoria de los procesos de negociación colectiva en materia laboral.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Exhortará a los colectivos de empresarios y trabajadores a negociar colectivamente.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Garantizará el deber de negociar colectivamente en materia laboral los representantes de los empresarios y de los trabajadores.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Garantizará la fuerza vinculante de los convenios colectivos.",
+          "id": 0
+        }
+      ],
+      "explanation": "Artículo 37. CE:\n1. *\"La ley garantizará el derecho a la negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como **la fuerza vinculante de los convenios**.*."
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "abc1a1d0-147a-45ad-b199-a15c41f25e2f",
+      "questionId": "69a7b4e6-824b-4683-954c-891486ed3681",
+      "question": "Conforme a lo dispuesto en la CE, puede producirse, en determinados casos, la acumulación del cargo de tutor del Rey, con el de:",
+      "answers": [
+        { "right": false, "answer": "Consorte de la Reina.", "id": 3 },
+        { "right": true, "answer": "Regente.", "id": 2 },
+        { "right": false, "answer": "Jefe de la Casa Real.", "id": 0 },
+        { "right": false, "answer": "Príncipe Heredero.", "id": 1 }
+      ],
+      "explanation": "Artículo 60.1 CE: \n\u003e\n1.*Será tutor del Rey menor la persona que en su testamento hubiese nombrado el Rey difunto, siempre que sea mayor de edad y español de nacimiento; si no lo hubiese nombrado, será tutor el padre o la madre; mientras permanezcan viudos. En su defecto, lo nombrarán las Cortes Generales, **pero no podrán acumularse los cargos de Regente y de tutor sino en el padre, madre o ascendientes directos del Rey**.*\n\u003e\nEs decir que se puede acumular el cargo de Regente y Tutor sólo en el padre, madre o ascendientes directos del Rey.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "3ded394d-3fee-4ecb-9a8c-5c423f8cd288",
+      "questionId": "ba0532a7-5c4c-42ed-8f75-a13f0122dddc",
+      "question": "El funcionamiento del Tribunal Constitucional, y demás cuestiones vinculadas al mismo, están reguladas, por mandato constitucional a través :",
+      "answers": [
+        { "right": true, "answer": "De una ley orgánica.", "id": 0 },
+        { "right": false, "answer": "De una ley de bases.", "id": 2 },
+        {
+          "right": false,
+          "answer": "Consta tal normativa en la propia Constitución.",
+          "id": 1
+        },
+        { "right": false, "answer": "De una ley ordinaria.", "id": 3 }
+      ],
+      "explanation": "Artículo 165 CE:\n\nUna **ley orgánica** regulará el funcionamiento del Tribunal Constitucional, el estatuto de sus miembros, el procedimiento ante el mismo y las condiciones para el ejercicio de las acciones."
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "80658f54-68dd-42cc-b731-0890c6841242",
+      "questionId": "ee8359a1-cebf-46c2-96dc-32d81e8ff994",
+      "question": "La persistencia en una actitud hostil o entorpecedora de la labor de investigación del Defensor del Pueblo por parte de cualquier Organismo, funcionarios, directivo o persona al servicio de la Administración pública",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Será objeto de informe especial al Consejo General del Poder Judicial para que inicie la correspondiente diligencia de investigación.",
+          "id": 2
+        },
+        {
+          "right": true,
+          "answer": "Podrá ser objeto de un informe especial, además de destacarlo en la sección correspondiente de su informe anual.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Será objeto de informe especial enviado al Ministerio Fiscal para que proceda al esclarecimiento de los hechos.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Podrá ser objeto de un informe especial remitido al Consejo de Ministros para que requiera a la Adminsitración competente.",
+          "id": 3
+        }
+      ],
+      "explanation": "El artículo 24 de la LO3/1981 señala que «*La persistencia en una actitud hostil o entorpecedora de la labor de investigación del Defensor del Pueblo por parte de cualquier Organismo, funcionarios, directivo o persona al servicio de la Administración pública podrá ser objeto de un **informe especial, además de destacarlo en la sección correspondiente de su informe anual**.*»"
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "578df172-2edc-4501-99eb-7478016ef27d",
+      "questionId": "c56cc011-b0c6-42e6-a51d-9fc5ad801a62",
+      "question": "En virtud de lo dispuesto en la Constitución, las sesiones plenarias de las Cámaras:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Serán públicas, pero acudiendo al hemiciclo sólo personal directamente invitado al efecto.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Serán a puerta cerrada, sin perjuicio de que pueda ser autorizada la presencia de los medios de comunicación.",
+          "id": 3
+        },
+        {
+          "right": true,
+          "answer": "Serán públicas, salvo acuerdo en contra de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Serán a puerta cerrada, salvo acuerdo en contra de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento.",
+          "id": 0
+        }
+      ],
+      "explanation": "El artículo 80 CE determina:\n\u003e\n Las sesiones plenarias de las Cámaras **serán **públicas**, salvo acuerdo en contrario de cada Cámara, adoptado por mayoría absoluta o con arreglo al Reglamento**.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "25f46c8a-2a09-4c32-a629-4b703dd589cd",
+      "questionId": "6305d750-c80a-4d75-a6f9-a03e9702478d",
+      "question": "El Título Noveno de la Constitución finaliza en el artículo:",
+      "answers": [
+        { "right": false, "answer": "163.", "id": 2 },
+        { "right": true, "answer": "165.", "id": 3 },
+        { "right": false, "answer": "162.", "id": 0 },
+        { "right": false, "answer": "161.", "id": 1 }
+      ],
+      "explanation": "El Tribunal Constitucional (TC) está recogido en el Título IX de la Constitución bajo la rúbrica \"Del Tribunal Constitucional\" y **contiene los artículos 159 a 165.**"
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "555ea252-95d9-4117-ac06-baf5b26954c1",
+      "questionId": "81bfec33-82ca-4e82-b46d-730cd424e8f9",
+      "question": "Conforme al artículo 45.1 de la Constitución Española, todos tienen:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "El derecho a conservar un medio ambiente cuidado y el deber de disfrutarlo.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "El derecho a conservar un medio ambiente adecuado y el deber de disfrutarlo.",
+          "id": 2
+        },
+        {
+          "right": true,
+          "answer": "El derecho a disfrutar de un medio ambiente adecuado y el deber de conservarlo.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "El derecho a disfrutar de un medio ambiente cuidado y el deber de conservarlo.",
+          "id": 0
+        }
+      ],
+      "explanation": "En virtud del artículo 45.1 CE: \n\u003e\nTodos tienen el derecho a **disfrutar de un medio ambiente adecuado** para el desarrollo de la persona, así como el deber de conservarlo.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "06145de5-4246-4119-bfad-398bca5b7419",
+      "questionId": "d3d7331f-a801-4869-a8ba-413368651a8b",
+      "question": "En el marco de lo dispuesto en el artículo 51 de la Constitución Española, la ley regulará:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Ambas respuestas son incorrectas.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "El régimen de autorización de productos comerciales.",
+          "id": 1
+        },
+        { "right": false, "answer": "El comercio interior.", "id": 0 },
+        { "right": true, "answer": "Ambas respuestas son correctas.", "id": 2 }
+      ],
+      "explanation": "En virtud del artículo 51.3 CE:\n\u003e\n3. \"En el marco de lo dispuesto por los apartados anteriores, **la ley regulará el comercio interior y el régimen de autorización de productos comerciales\".**",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "56d53ccb-d97a-4cec-b324-cb5aea1f7740",
+      "questionId": "362ccb86-caca-43ff-bde8-f91b2530ca67",
+      "question": "A tenor de lo dispuesto en el artículo 52 de la Constitución Española, la ley regulará las organizaciones profesionales que contribuyan a la defensa de los intereses económicos:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "De los consumidores y usuarios.",
+          "id": 3
+        },
+        { "right": true, "answer": "Que les sean propios.", "id": 0 },
+        { "right": false, "answer": "Que les sean encomendados.", "id": 1 },
+        { "right": false, "answer": "De los trabajadores.", "id": 2 }
+      ],
+      "explanation": "En virtud del artículo 52 CE: \n\u003e\n\"La ley regulará las organizaciones profesionales que contribuyan a la **defensa de los intereses económicos que les sean propios**. Su **estructura interna y funcionamiento** deberán ser **democráticos**\".",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "e7b171d9-6117-4226-9147-4ac06779e535",
+      "questionId": "3e99149d-81af-4787-a628-18e97b180928",
+      "question": "¿En qué parte de la Constitución se recogen los principios rectores de la política social y económica?",
+      "answers": [
+        { "right": false, "answer": "Capítulo I del Título I.", "id": 0 },
+        { "right": true, "answer": "Capítulo III del Título I.", "id": 2 },
+        { "right": false, "answer": "Capítulo IV del Título I.", "id": 3 },
+        { "right": false, "answer": "Capítulo II del Título I.", "id": 1 }
+      ],
+      "explanation": "El **Capítulo III del Título I** de la Constitución recoge **los principios rectores de la política social y económica** y se compone de los artículos 39 a 52, que son analizados a continuación."
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "2fef2bca-d6b2-42e4-b1ef-883dcab587c2",
+      "questionId": "c11e70e8-b10e-4e4e-976a-7f15fa5d0cf2",
+      "question": "¿Cuál de estas libertades o principios no están garantizados por la Constitución en su artículo 9?",
+      "answers": [
+        { "right": false, "answer": "Publicidad de las normas.", "id": 0 },
+        {
+          "right": true,
+          "answer": "Principio de retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Interdicción de la arbitrariedad de los poderes públicos.",
+          "id": 3
+        },
+        { "right": false, "answer": "Seguridad jurídica.", "id": 2 }
+      ],
+      "explanation": "El artículo 9.3 CE \"La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, **la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales**, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "60309424-1aa6-43cd-ab86-73f322aa163f",
+      "questionId": "3bf12fb7-ac6b-4969-95d0-d84c78009d49",
+      "question": "El artículo 30.3 de la CE, establece que:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Podrá establecerse un servicio militar obligatorio en el caso de necesidad.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Podrá establecerse un servicio obligatorio en los casos que la ley establezca.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Podrá establecerse un servicio social en caso de catástrofe.",
+          "id": 3
+        },
+        {
+          "right": true,
+          "answer": "Podrá establecerse un servicio civil para fines de interés general.",
+          "id": 2
+        }
+      ],
+      "explanation": "Artículo 30.3 CE: \n\u003e\n3. **Podrá establecerse un servicio civil para el cumplimiento de fines de interés general.**",
+      "examOnly": false
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "c3a35df8-6acb-4e56-aadc-914e0c46f5e1",
+      "questionId": "0fe6a90b-e9d4-4dba-9e6b-349c95c930bc",
+      "question": "¿Cuántas veces ha sido reformada la Constitución?",
+      "answers": [
+        { "right": true, "answer": "Dos.", "id": 1 },
+        { "right": false, "answer": "Tres.", "id": 3 },
+        { "right": false, "answer": "Una.", "id": 2 },
+        { "right": false, "answer": "Ninguna.", "id": 0 }
+      ],
+      "explanation": "La CE ha sido reformada en dos ocasiones. La primera el 27 de agosto de 1992 y la segunda el 27 de septiembre de 2011."
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "9fe4cfeb-861a-411e-9fc7-a6fc52ae50bb",
+      "questionId": "7bd8dd52-4102-4be4-9512-ffd696042bd7",
+      "question": "A tenor del artículo 77 de la Constitución Española, las Cámaras pueden recibir peticiones:",
+      "answers": [
+        { "right": false, "answer": "Individuales.", "id": 0 },
+        { "right": false, "answer": "Individuales y conjuntas.", "id": 1 },
+        {
+          "right": false,
+          "answer": "De personas físicas y jurídicas.",
+          "id": 2
+        },
+        { "right": true, "answer": "Individuales y colectivas.", "id": 3 }
+      ],
+      "explanation": "Artículo 77 CE: \n\u003e\n1. Las Cámaras pueden recibir peticiones **individuales y colectivas,** siempre por escrito, quedando prohibida la presentación directa por manifestaciones ciudadanas.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "1ba82d77-f123-4e99-84d4-605a41bb0108",
+      "questionId": "6ec3fd03-e981-4164-95c1-57f83d360bf1",
+      "question": "La función constitucional de la Diputación Permanente, recogida en el Artículo 78 de la Constitución es:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Gestionar los Presupuestos de las Cámaras.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Preparar los asuntos de debate del Pleno.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Tramitar los Presupuestos Generales del Estado.",
+          "id": 0
+        },
+        {
+          "right": true,
+          "answer": "Continuar en ejercicio tras la disolución de las Cortes Generales hasta la constitución de las Nuevas.",
+          "id": 3
+        }
+      ],
+      "explanation": "Artículo 78.3 \n\u003e\n3.Expirado el mandato o en caso de disolución, las Diputaciones Permanentes **seguirán ejerciendo sus funciones hasta la constitución de las nuevas Cortes Generales.**",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "1a581cf5-34ae-4b05-b606-fea5e6acd1b3",
+      "questionId": "79b5fea0-8a36-420d-892a-f80370a68e5b",
+      "question": "Según el artículo 82 de la CE, el Control de las leyes de delegación lo ejercerá:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "La Comisión Legislativa establecerá fórmulas  de control en la propia ley de delegación.",
+          "id": 2
+        },
+        { "right": false, "answer": "El Presidente del Gobierno.", "id": 0 },
+        {
+          "right": true,
+          "answer": "Los Tribunales, sin perjuicio de que se establezcan en las propias leyes de delegación fórmulas adicionales de control.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Las Cortes Generales mediante fórmulas de control.",
+          "id": 1
+        }
+      ],
+      "explanation": "Artículo 82.6 CE: \n\u003e\n6. Sin perjuicio de la competencia propia de los Tribunales, las leyes de delegación podrán establecer en cada caso fórmulas adicionales de control.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "9b868ed0-5ea7-468e-88bb-84ac223c6d0f",
+      "questionId": "87600832-d103-44b0-bd05-a9f642e7170b",
+      "question": "Según la Constitución, el referéndum consultivo:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Irá dirigido a aquellos ciudadanos que las medidas les afecten.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Irá dirigido a todos los ciudadanos y será llevado a cabo dentro de los dos meses siguientes a la aprobación de la propuesta por el Congreso de los Diputados.",
+          "id": 1
+        },
+        { "right": true, "answer": "Será convocado por el Rey.", "id": 3 },
+        {
+          "right": false,
+          "answer": "Será aprobado por el Presidente del Gobierno.",
+          "id": 2
+        }
+      ],
+      "explanation": "\u003e Artículo 92 CE: \n\u003e\n \"1.Las **decisiones políticas de especial trascendencia** podrán ser sometidas a referéndum consultivo de todos los ciudadanos.\n\u003e\n\u003e 2.El referéndum será convocado por el Rey, mediante **propuesta del Presidente del Gobierno**, previamente **autorizada por el Congreso de los Diputados**.\n\u003e\n\u003e 3.Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución.\"",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "481e792a-21b2-469f-a33d-f65cc43d5849",
+      "questionId": "7cbf9ebb-28d2-4dc4-b0f6-d531f3c3ac87",
+      "question": "El Defensor del Pueblo obtendrá su dotación económica de:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "La partida que asignen las Cámaras al Defensor del Pueblo.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Las partidas presupuestarias de las Administraciones en que intervenga el Defensor del Pueblo.",
+          "id": 2
+        },
+        {
+          "right": true,
+          "answer": "Una partida proveniente de los Presupuestos de las Cortes Generales.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Los Presupuestos Generales del Estado.",
+          "id": 0
+        }
+      ],
+      "explanation": "Artículo 37 LO 3/1981: \"La dotación económica necesaria para el funcionamiento de la institución constituirá una partida dentro de los Presupuestos de las Cortes Generales.\""
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "44c893e5-df53-4889-9dbd-893b29ad28e2",
+      "questionId": "c4350c65-1511-4b8b-9b78-938938427dbe",
+      "question": "Complete el tenor literal del artículo 44.1 de la Constitución Española. Los poderes públicos promoverán y tutelarán el acceso a la cultura:",
+      "answers": [
+        { "right": false, "answer": "... a todos los ciudadanos\".", "id": 1 },
+        {
+          "right": true,
+          "answer": "... a la que todos tienen derecho\".",
+          "id": 3
+        },
+        { "right": false, "answer": "... a todos los españoles\".", "id": 2 },
+        {
+          "right": false,
+          "answer": "... a la que todos los ciudadanos tienen derecho\".",
+          "id": 0
+        }
+      ],
+      "explanation": "En virtud del artículo 44.1 CE: \n\u003e\n1.Los poderes públicos promoverán y tutelarán el **acceso a la cultura**, a la que todos tienen derecho.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "24c4a6c6-d2e2-426b-8bdc-7920481b511b",
+      "questionId": "ce6273cc-a17a-41f4-804f-aef927ed8ee9",
+      "question": "De acuerdo con el artículo 167.3 de la CE, los proyectos de reforma constitucional aprobados por ambas Cámaras serán sometidos a referéndum para su ratificación:",
+      "answers": [
+        { "right": false, "answer": "En todos los casos.", "id": 0 },
+        {
+          "right": false,
+          "answer": "Cuando así lo soliciten, dentro de los veinte días siguientes a su aprobación, cincuenta diputados o cincuenta senadores.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, dos quintos de los miembros de cualquiera de las Cámaras.",
+          "id": 2
+        }
+      ],
+      "explanation": "Según el artículo 167 de la Constitución Española: “aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.”",
+      "source": "Examen Oficial Auxiliar Administrativo del Estado 2015",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "54c30cf7-4c8e-441a-9960-4026a159bff9",
+      "questionId": "0d4c6c9c-c5be-4fbd-a8ba-b86fee09a4c3",
+      "question": "En virtud del artículo 90 de la CE, aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, ¿cuál será el siguiente trámite?",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Los Letrados del Congreso comenzarán a desarrollar el texto.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Será remitido a la Comisión Legislativa para su estudio.",
+          "id": 0
+        },
+        {
+          "right": true,
+          "answer": "El Presidente del Congreso dará inmediata cuenta del mismo al Presidente del Senado.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "El Presidente del Gobierno dará inmediata cuenta del mismo al Presidente del Senado, el cual lo llevará a deliberación del Senado.",
+          "id": 2
+        }
+      ],
+      "explanation": "Artículo 90.1 CE:\n\u003e\n1. Aprobado un proyecto de ley ordinaria u orgánica por el Congreso de los Diputados, **su Presidente dará inmediata cuenta del mismo al Presidente del Senado,**el cual lo someterá a la deliberación de éste.\"",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "30dcffe4-0736-4ea3-99d3-1071047d17e2",
+      "questionId": "cbde300b-8d1f-484e-b6e6-524f645bf3d4",
+      "question": "De acuerdo con lo dispuesto en la CE, el gasto público:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Realizará una asignación progresiva de los recursos públicos.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Su programación responderá al criterio de austeridad.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Todas las otras respuestas son falsas.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Su ejecución responderá al criterio de jerarquización del gasto.",
+          "id": 2
+        }
+      ],
+      "explanation": "Artículo 31.2 CE:\n\u003e\n2. El gasto público **realizará una asignación equitativa** de los recursos públicos, y **su programación y ejecución responderán a los criterios de eficiencia y economía**.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "5a54d177-0b73-4fa9-9944-952667ed896e",
+      "questionId": "34544878-c69a-4688-925f-45935b49162a",
+      "question": "¿Qué artículos componen el Título I \"De los derechos y deberes fundamentales\" de la Constitución española?",
+      "answers": [
+        { "right": false, "answer": "Del art. 11 al 55", "id": 1 },
+        { "right": true, "answer": "Del art. 10 al 55", "id": 0 },
+        { "right": false, "answer": "Del art. 10 al 56", "id": 2 },
+        { "right": false, "answer": "Del art. 11 al 54", "id": 3 }
+      ],
+      "explanation": "El Título I \"De los derechos y deberes fundamentales\" está compuesto por los artículos del 10 al 55.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "58005bcb-95c0-452e-b866-8f34ff3eb955",
+      "questionId": "48a64828-d8cd-43fd-83e6-121250b9889c",
+      "question": "Conforme a la Constitución Española, los poderes públicos promoverán las condiciones favorables para el progreso social y económico y para una distribución más equitativa de:",
+      "answers": [
+        { "right": false, "answer": "El nivel de vida.", "id": 2 },
+        { "right": true, "answer": "La renta regional y personal.", "id": 0 },
+        {
+          "right": false,
+          "answer": "El salario mínimo interprofesional.",
+          "id": 3
+        },
+        { "right": false, "answer": "Los salarios.", "id": 1 }
+      ],
+      "explanation": "Artículo 40.1 CE: \n\u003e\n1.Los poderes públicos promoverán las **condiciones favorables** para el **progreso social y económico** y para una **distribución de la renta regional y personal más equitativa**, en el marco de una **política de estabilidad económica**. De manera especial realizarán una **política orientada al pleno empleo**.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "227a604d-1943-4b2d-9073-f32443156945",
+      "questionId": "5bb0a652-60a3-492e-aa96-a17a9318b5c2",
+      "question": "Señala la respuesta correcta conforme al artículo 39 de la Ley Orgánica 2/1979:",
+      "answers": [
+        { "right": false, "answer": "Todas son correctas.", "id": 2 },
+        {
+          "right": false,
+          "answer": "El Tribunal Constitucional no podrá fundar la declaración de inconstitucionalidad de los preceptos que no hayan sido invocados en el curso del proceso.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "La sentencia de inconstitucionalidad declara la nulidad de los preceptos impugnados.",
+          "id": 0
+        },
+        { "right": false, "answer": "Todas son incorrectas.", "id": 3 }
+      ],
+      "explanation": "Artículo 39 LOTC:\n\u003e\n1. Cuando la sentencia declare la inconstitucionalidad,** declarará igualmente la nulidad de los preceptos impugnados,** así como, en su caso, la de aquellos otros de la misma Ley, disposición o acto con fuerza de Ley a los que deba extenderse por conexión o consecuencia.\n\u003e\n2. El Tribunal Constitucional podrá fundar la declaración de inconstitucionalidad en la infracción de cualquier precepto constitucional, haya o no sido invocado en el curso del proceso.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "449fd1d9-f7ad-4235-9171-1a0a2a84fc39",
+      "questionId": "dda42439-ac0d-41c3-9ee0-a475d353b24a",
+      "question": "Marque cuál de las siguientes no es una de las características de la Constitución:",
+      "answers": [
+        { "right": false, "answer": "Extensa.", "id": 2 },
+        { "right": false, "answer": "Ambigua.", "id": 1 },
+        { "right": false, "answer": "Rupturista.", "id": 3 },
+        { "right": true, "answer": "Completa.", "id": 0 }
+      ],
+      "explanation": "Las características de la Constitución son las siguientes: extensa, rupturista, consensuada, ambigua, incompleta e influencias.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "08000bcb-6e3e-438b-8410-b9ef09f5c4ed",
+      "questionId": "3bc956ff-d2e1-4502-9fc8-5bc9a4e432c2",
+      "question": "Conforme a lo dispuesto en la CE, la lengua oficial del Estado español es:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "El castellano solo en aquellas comunidades autónomas que no sean bilingües.",
+          "id": 2
+        },
+        { "right": true, "answer": "El castellano.", "id": 3 },
+        { "right": false, "answer": "El español o castellano", "id": 0 },
+        {
+          "right": false,
+          "answer": "El idioma originario en las comunidades que tengan de lengua propia.",
+          "id": 1
+        }
+      ],
+      "explanation": "Artículo 3 CE\n\n\u003e\n1. **El castellano es la lengua española oficial del Estado**. Todos los españoles tienen el deber de conocerla y el derecho a usarla.\n\n\u003e\n2. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.\n\n\u003e\n3. La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "8e8b320f-818a-4af0-972a-3d4e4338d587",
+      "questionId": "3cd5c5ae-a040-43ed-95cc-ff62b962b246",
+      "question": "La prohibición contenida en el artículo 21 de la Constitución española para el derecho de reunión, podrá aplicarse a:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Las reuniones que, en cada caso concreto, determine la autoridad judicial.",
+          "id": 0
+        },
+        {
+          "right": true,
+          "answer": "Las reuniones que se realicen en lugares de tránsito público y las manifestaciones, exclusivamente.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Las reuniones convocadas por sindicatos y asociaciones.",
+          "id": 1
+        },
+        { "right": false, "answer": "Todo tipo de reuniones.", "id": 3 }
+      ],
+      "explanation": "El artículo 21.2 de la CE establece: \n\u003e\n2.En los casos de **reuniones en lugares de tránsito público y manifestaciones **se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "40a89de0-cced-4999-b201-11703d3489fb",
+      "questionId": "b2ef4595-b07b-4976-8903-62c7f703c0b9",
+      "question": "¿En qué artículo de la CE se establece que la capital del Estado es la villa de Madrid?",
+      "answers": [
+        {
+          "right": false,
+          "answer": "En el artículo 1 de la Constitución Española.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "En el artículo 8 de la Constitución Española.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "En el artículo 7 de la Constitución Española.",
+          "id": 0
+        },
+        {
+          "right": true,
+          "answer": "En el artículo 5 de la Constitución Española.",
+          "id": 1
+        }
+      ],
+      "explanation": "Artículo 5 CE\n\n\u003e\nLa capital del Estado es la villa de Madrid.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "5f0c846f-d172-4b14-b245-8498df23fa64",
+      "questionId": "8d7bc37d-b2c3-4343-bee1-39075474d207",
+      "question": "El artículo 46 de la CE establece que los poderes públicos promoverán el enriquecimiento:",
+      "answers": [
+        {
+          "right": true,
+          "answer": "Todas las anteriores son correctas.",
+          "id": 3
+        },
+        { "right": false, "answer": "Del patrimonio histórico.", "id": 0 },
+        { "right": false, "answer": "Del patrimonio cultural.", "id": 1 },
+        { "right": false, "answer": "Del patrimonio artístico.", "id": 2 }
+      ],
+      "explanation": "Artículo 46 CE \n\u003e\nLos poderes públicos garantizarán la conservación y promoverán el enriquecimiento **del patrimonio histórico, cultural y artístico** de los pueblos de España y de los bienes que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley penal sancionará los atentados contra este patrimonio.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "2935b555-8a16-44e4-a0cd-84cafa64eef9",
+      "questionId": "57a8eb86-ea58-420d-bf15-cb0214930060",
+      "question": "¿De dónde emanan los poderes del Estado, conforme al artículo 1.2 de la CE?",
+      "answers": [
+        { "right": false, "answer": "Del Rey.", "id": 3 },
+        { "right": true, "answer": "Del pueblo español.", "id": 0 },
+        { "right": false, "answer": "Del poder ejecutivo.", "id": 2 },
+        { "right": false, "answer": "De los hombres.", "id": 1 }
+      ],
+      "explanation": "Según el artículo 1.2 CE:\n\u003e\n\"La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.\"",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "19bf5a8a-b5da-4f26-af54-7e8ef37b6a02",
+      "questionId": "df517e9e-97e2-4a4a-8fbc-4df5383ad780",
+      "question": "Indica cuál de los siguientes no es un valor superior del ordenamiento jurídico, según lo dispuesto en el artículo 1.1 de la CE:",
+      "answers": [
+        { "right": false, "answer": "La igualdad.", "id": 3 },
+        { "right": false, "answer": "La justicia.", "id": 1 },
+        { "right": true, "answer": "La dignidad.", "id": 2 },
+        { "right": false, "answer": "La libertad.", "id": 0 }
+      ],
+      "explanation": "El artículo 1.1 de la CE establece que:\n España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la **libertad, la justicia, la igualdad y el pluralismo político**\".*",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "ce54092b-6c3e-4fc3-a979-d84bc2d73bb8",
+      "questionId": "800d7e5c-78ea-4801-a77b-323e2a9831b8",
+      "question": "¿Qué Título de la Constitución española lleva por rúbrica Del Poder Judicial?",
+      "answers": [
+        { "right": false, "answer": "Título I.", "id": 0 },
+        { "right": false, "answer": "Título IV.", "id": 2 },
+        { "right": true, "answer": "Título VI.", "id": 3 },
+        { "right": false, "answer": "Título III.", "id": 1 }
+      ],
+      "explanation": "El Título VI, del Poder Judicial, comprende los artículos 117 a 127 y sienta las bases de este poder del Estado.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "f647238c-7dbc-454e-b961-4d574635064c",
+      "questionId": "c780a76b-f5c3-47ff-b16e-d89894be4b4e",
+      "question": "¿En qué parte del Título III de la CE se regulan Las Cámaras?",
+      "answers": [
+        { "right": false, "answer": "Capítulo II.", "id": 1 },
+        {
+          "right": false,
+          "answer": "No se encuentra en dicho Título.",
+          "id": 3
+        },
+        { "right": false, "answer": "Capítulo III.", "id": 2 },
+        { "right": true, "answer": "Capítulo I.", "id": 0 }
+      ],
+      "explanation": "El **Capítulo I \"De las Cámaras\"** del Título III \"De las Cortes Generales\" se compone de los artículos 66 a 80 de la CE.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "48214f23-2707-41e6-8524-c455c0c6860e",
+      "questionId": "5b6cfeba-aa92-4622-8c1a-82bccd4a1315",
+      "question": "En virtud de lo dispuesto en la Constitución española, ¿cuándo las reuniones del Parlamento no serán vinculantes?",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Cuando no asistan un número mínimo de miembros.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Cuando se celebren sin convocatoria reglamentaria.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Cuando se realicen por los miembros sin haberlas aprobado el presidente.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Cuando no asista el Presidente o en su defecto el Vicepresidente.",
+          "id": 2
+        }
+      ],
+      "explanation": "Artículo 67 CE:\n\u003e\n \"3.Las reuniones de Parlamentarios que se celebren **sin convocatoria reglamentaria no vincularán a las Cámaras,** y no podrán ejercer sus funciones ni ostentar sus privilegios.\"",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "f510faee-1f39-4a18-a1c2-91ff8377c1f6",
+      "questionId": "488e0dcc-46c4-4399-98f8-562108a1c5cc",
+      "question": "En virtud de lo dispuesto en el artículo 13 de la CE,¿qué tipo de delitos están excluidos de la extradición?",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Los delitos políticos, incluyendo los actos de terrorismo.",
+          "id": 0
+        },
+        { "right": true, "answer": "Los delitos políticos.", "id": 3 },
+        { "right": false, "answer": "Los actos de terrorismo.", "id": 1 },
+        {
+          "right": false,
+          "answer": "Los delitos económicos y sociales.",
+          "id": 2
+        }
+      ],
+      "explanation": "El artículo 13.3 trata de la extradición, el cual señala lo siguiente: \n\u003e\nLa extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Quedan **excluidos de la extradición los delitos políticos,** no considerándose como tales los actos de terrorismo.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "ce7b326c-3f13-4ea8-9744-fcf4923d1395",
+      "questionId": "aa8e3bf5-93d5-4cea-834e-72bd1e4b4a0b",
+      "question": "¿Qué artículos componen el Capítulo Segundo \"Derechos y libertades\" de la Constitución española?",
+      "answers": [
+        { "right": true, "answer": "Del art. 14 al 38", "id": 0 },
+        { "right": false, "answer": "Del art. 14 al 39", "id": 2 },
+        { "right": false, "answer": "Del art. 15 al 37", "id": 1 },
+        { "right": false, "answer": "Del art. 13 al 37", "id": 3 }
+      ],
+      "explanation": "El Capítulo Segundo \"Derechos y libertades\" está compuesto por los artículos comprendidos entre el 14 y el 38.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "d234ccf2-73da-4565-922d-565092edd6bd",
+      "questionId": "266ec2b8-0e80-4d66-a52d-9aaccb586961",
+      "question": "¿Qué artículos componen el Título Preliminar de la Constitución española?",
+      "answers": [
+        { "right": true, "answer": "Del artículo 1 al 9.", "id": 0 },
+        { "right": false, "answer": "Del artículo 1 al 10.", "id": 1 },
+        { "right": false, "answer": "Del artículo 1 al 13.", "id": 2 },
+        { "right": false, "answer": "Del artículo 1 al 20.", "id": 3 }
+      ],
+      "explanation": "El Título Preliminar lo componen los artículos del 1 al 9.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "4f75b69a-16f9-4b26-9d0b-eccd205548f5",
+      "questionId": "448bf2ae-d2ff-4e07-9de8-3fc0c0ae8057",
+      "question": "¿Cuál de estas afirmaciones no se contiene en la literalidad del artículo 7 de la CE?",
+      "answers": [
+        {
+          "right": true,
+          "answer": "Son expresión de pluralismo social.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Su estructura interna y funcionamiento deberán ser democráticos.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Todas las respuestas son correctas.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Los sindicatos y asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios.",
+          "id": 0
+        }
+      ],
+      "explanation": "A tenor del 7CE:\n\u003e\n\"Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "9fc313b8-0940-4ca5-a8d1-ea5af124a052",
+      "questionId": "8d7bbabc-9913-4071-8471-eb5f33a798f9",
+      "question": "De acuerdo con lo dispuesto en el artículo 17 de la CE, toda persona detenida:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Debe de ser informada antes de las setenta y dos horas de sus derechos y de las razones de su detención.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Debe de ser informada antes de las setenta y dos horas de sus derechos y de las razones de su detención de forma que tales datos puedan ser entendidos por su Abogado.",
+          "id": 3
+        },
+        { "right": false, "answer": "Podrá ser obligada a declarar.", "id": 1 },
+        {
+          "right": true,
+          "answer": "Todas las otras respuestas son falsas.",
+          "id": 2
+        }
+      ],
+      "explanation": "Artículo 17.3. CE: \n\u003e\n3.Toda persona detenida debe ser **informada de forma inmediata**, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, **no pudiendo ser obligada a declarar**. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "0621827e-a249-4ed5-b8f2-9f7d59b239c3",
+      "questionId": "5a31490d-55ab-4787-833d-f36110488a5f",
+      "question": "Señale la afirmación incorrecta en relación al artículo 19 de la Constitución española:",
+      "answers": [
+        {
+          "right": true,
+          "answer": "Los españoles podrán ver limitado su derecho a circular por el territorio español por motivos políticos.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Los españoles tienen derecho a salir libremente de España en los términos que la Ley establezca.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Los españoles tienen derecho a entrar libremente a España en los términos que la Ley establezca.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Los españoles tienen derecho a elegir libremente su residencia.",
+          "id": 3
+        }
+      ],
+      "explanation": "Artículo 19 CE\n\n\u003e\nLos españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional. Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. \u003e\n\u003e\n**Este derecho no podrá ser limitado por motivos políticos o ideológicos.**",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "8809ff9f-7699-4443-89eb-39d533ae070e",
+      "questionId": "f1b5744c-dfea-4747-b9f9-35496b01005c",
+      "question": "De conformidad con lo dispuesto en el artículo 33 de la CE, la propiedad privada:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Tal función social no existe respecto del derecho a la herencia.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Tiene una función social que delimitará su contenido.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Al igual que la herencia está protegido por el Recurso de Amparo.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Es un derecho fundamental de la persona reconocido en nuestra Constitución.",
+          "id": 3
+        }
+      ],
+      "explanation": "Artículo 33. CE: \n\u003e\n1. Se reconoce el derecho a la propiedad privada y a la herencia.\n\u003e\n2. La **función social de estos derechos delimitará su contenido**, de acuerdo con las leyes.\n\u003e\n3. Nadie podrá ser privado de sus bienes y derechos sino por causa justificada de utilidad pública o interés social, mediante la correspondiente indemnización y de conformidad con lo dispuesto por las leyes.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "6d88ab7e-f6d7-464f-93a2-3c2cabfd9e9e",
+      "questionId": "92558b85-dcf6-4248-81cc-200e0bdb48cf",
+      "question": "De conformidad con lo dispuesto en el artículo 50 de la Constitución, ¿cómo garantizarán los poderes públicos la suficiencia económica a los ciudadanos durante la tercera edad?",
+      "answers": [
+        {
+          "right": true,
+          "answer": "Mediante pensiones adecuadas y periódicamente actualizadas.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Mediante prestaciones adecuadas y anualmente actualizadas.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Mediante pensiones adecuadas y anualmente actualizadas.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Mediante prestaciones adecuadas y periódicamente actualizadas.",
+          "id": 0
+        }
+      ],
+      "explanation": "En virtud del artículo 50 CE:\n\u003e\n \"Los poderes públicos garantizarán, mediante **pensiones** adecuadas y periódicamente actualizadas, la **suficiencia** económica a los ciudadanos durante la **tercera edad**. Asimismo, y con independencia de las obligaciones familiares, **promoverán su bienestar** mediante un sistema de **servicios sociales** que atenderán sus **problemas específicos de salud, vivienda, cultura y ocio**\".",
+      "examOnly": false
+    },
+    {
+      "ebookId": "2334ed46-dbf7-46a5-a688-17417976be74",
+      "sectionId": "184edf47-53a8-4953-aa42-61cd33fdc09f",
+      "questionId": "d269f3ff-a40f-447b-b87a-0c432d0ea2b9",
+      "question": "El Rey asume la más alta representación del Estado en las relaciones internacionales, pero la Constitución matiza que dicha representación será especialmente con:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Con los países  integrantes de la Unión Europea.",
+          "id": 2
+        },
+        {
+          "right": true,
+          "answer": "Con los países de su comunidad histórica.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "Con los países de su entorno cultural y geográfico.",
+          "id": 1
+        },
+        { "right": false, "answer": "Con los países Iberoamericanos.", "id": 3 }
+      ],
+      "explanation": "Artículo 56.1 CE:\n\u003e\n1.  El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, **especialmente con las naciones de su comunidad histórica**, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes*.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "a765a202-7e76-4105-a687-4688ac261fdf",
+      "questionId": "a6384916-d100-4936-b9bc-959b19d588a8",
+      "question": "En el supuesto de sesiones conjuntas de ámbas Cámaras, en virtud del artículo 72.2 de la CE:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Dichas sesiones se presidirán por el Presidente del Congreso y se regirán por el Reglamento del Congreso de los Diputados..",
+          "id": 0
+        },
+        {
+          "right": true,
+          "answer": "Dichas sesiones se presidirán por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por ellas.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Dichas sesiones se presidirán por el Presidente del Gobierno y se regirán por el Reglamento del Congreso de los Diputados.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "Dichas sesiones se presidirán por el Presidente del Gobierno y se regirán por un Reglamento de las Cortes Generales aprobado por ellas.",
+          "id": 2
+        }
+      ],
+      "explanation": "Artículo 72.2 CE; \n\u003e\n2.Las sesiones conjuntas (del Congreso de los Diputados y del Senado) **se presidirán por el Presidente del Congreso y se regirán por un Reglamento de las Cortes Generales aprobado por mayoría absoluta de cada Cámara.**",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "b675ad12-9762-41ee-8bfa-b8b8123a1be7",
+      "questionId": "809d3ad0-2b35-4fd0-adf9-867ff4a69efb",
+      "question": "De acuerdo con la Constitución, ¿en cuál de estas materias cabe delegación de las Cámaras en las Comisiones Legislativas Permanentes?",
+      "answers": [
+        { "right": false, "answer": "Reforma constitucional.", "id": 0 },
+        {
+          "right": true,
+          "answer": "Aprobación de leyes tributarias.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Aprobación de los Presupuestos Generales del Estado.",
+          "id": 1
+        },
+        { "right": false, "answer": "Cuestiones internacionales.", "id": 3 }
+      ],
+      "explanation": "El artículo 75.2 CE dispone lo siguiente: \n\u003e\n2.Las Cámaras **podrán delegar en las Comisiones Legislativas Permanentes la aprobación de proyectos o proposiciones de ley**. El Pleno podrá, no obstante, recabar en cualquier momento el debate y votación de cualquier proyecto o proposición de ley que haya sido objeto de esta delegación.\n\n\u003e\nAdemás, en su apartado tercero dispone: **Quedan exceptuados de lo dispuesto en el apartado anterior la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases y los Presupuestos Generales del Estado**.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "0771bce3-8d7b-4af0-a711-f0d51a01d852",
+      "sectionId": "81f0c528-b75b-4a78-9792-80193fc6c666",
+      "questionId": "603c6c4e-d263-4427-8f64-bf2402e167fa",
+      "question": "En virtud de lo dispuesto en la CE, en el caso de que una proposición de ley o enmienda fuese contraria a una delegación legislativa en vigor y el Gobierno se opusiese a su tramitación:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "La Mesa del Congreso podrá presentar una proposición para la derogación total o parcial de la ley de delegación.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "El Gobierno podrá presentar una proposición para la derogación total o parcial de la ley de delegación.",
+          "id": 1
+        },
+        {
+          "right": false,
+          "answer": "El Senado podrá presentar una proposición para la derogación total o parcial de la ley de delegación.",
+          "id": 3
+        },
+        {
+          "right": true,
+          "answer": "Los grupos parlamentarios podrán presentar una proposición para la derogación total o parcial de la ley de delegación.",
+          "id": 0
+        }
+      ],
+      "explanation": "Artículo 84 CE: \n\u003e\nCuando una proposición de ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación. En tal supuesto, **podrá presentarse una proposición de ley para la derogación total o parcial de la ley de delegación**. \n\u003e\n**¡OJO!** En el enunciado (y artículo) da la pista, dice \"proposición de ley\", que son las que llevan a cabo los parlamentarios, el Gobierno hace \"proyectos de ley\".",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "efcae355-333b-4d19-8444-e37cc643fe3a",
+      "questionId": "8d9ea196-1dc0-4bb3-be59-ff3a2cd91775",
+      "question": "¿Qué derecho reconoce el artículo 47 de la Constitución Española?",
+      "answers": [
+        { "right": true, "answer": "Una vivienda digna y adecuada.", "id": 3 },
+        { "right": false, "answer": "La educación.", "id": 1 },
+        { "right": false, "answer": "La productividad.", "id": 2 },
+        {
+          "right": false,
+          "answer": "El disfrute de un medio ambiente adecuado.",
+          "id": 0
+        }
+      ],
+      "explanation": "En virtud del artículo 47 CE:\n\u003e\n \"Todos los españoles tienen derecho a disfrutar de una **vivienda digna y adecuada**. Los poderes públicos promoverán las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo este derecho, regulando la utilización del suelo de acuerdo con el interés general para impedir la especulación. La comunidad participará en las plusvalías que genere la acción urbanística de los entes públicos\".",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "3dc6645a-8923-4a21-9f0a-402f94b5461b",
+      "questionId": "8e669d4d-8401-4eca-8bc1-88c209a059f8",
+      "question": "¿En qué artículo de la Constitución española aparece la figura del \"habeas corpus\"?",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Artículo 21 de la Constitución española.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Artículo 18 de la Constitución española.",
+          "id": 1
+        },
+        { "right": false, "answer": "No aparece reflejada en la CE.", "id": 2 },
+        {
+          "right": true,
+          "answer": "Artículo 17 de la Constitución española.",
+          "id": 0
+        }
+      ],
+      "explanation": "Libertad física: los arts. 17 y 19 establecen el tiempo de detención preventiva, el procedimiento de habeas corpus para las personas que se hallan en situación de detención ilegal, la libertad de residencia y de circulación. Todas ellas son libertades referentes al movimiento de la persona y a su derecho a escoger dónde estar.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "65b20b82-6c31-433e-9adc-238c88b15438",
+      "questionId": "cc168239-c083-4f47-aa3a-08019dde6750",
+      "question": "La CE busca la igualdad, y en este sentido se establece en el artículo 14 CE el:",
+      "answers": [
+        {
+          "right": true,
+          "answer": "El principio de no discriminación.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "El principio de subsidiariedad.",
+          "id": 0
+        },
+        { "right": false, "answer": "El principio de jerarquía.", "id": 3 },
+        { "right": false, "answer": "El principio de integración.", "id": 1 }
+      ],
+      "explanation": "La igualdad y/o la equidad, que viene ligada a la aspiración de justicia social que persigue todo Estado social viene reflejada en el artículo 14 de la CE con el principio de no discriminación.\n\n\u003e\nArtículo 14.\n\u003e\nLos españoles son iguales ante la ley, sin que pueda prevalecer\ndiscriminación alguna por razón de nacimiento, raza, sexo, religión,\nopinión o cualquier otra condición o circunstancia personal o social.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "a5547559-b633-4a1b-95d9-05ab885d3a2d",
+      "questionId": "c5e14068-9e5a-48ad-bb12-5ce629cb0c0e",
+      "question": "A tenor del artículo 34.2 de la CE para el derecho de fundación regirá además del propio artículo, también lo dispuesto en:",
+      "answers": [
+        {
+          "right": true,
+          "answer": "El artículo 22 CE apartados 2 y 4.",
+          "id": 0
+        },
+        { "right": false, "answer": "En las leyes.", "id": 2 },
+        { "right": false, "answer": "En el TFUE.", "id": 1 },
+        {
+          "right": false,
+          "answer": "En el artículo 42 apartados 2 y 6.",
+          "id": 3
+        }
+      ],
+      "explanation": "El artículo 34.2 CE establece que para las fundaciones regirá también lo dispuesto en los apartados 2 y 4 del artículo 22.\n\u003e\nArtículo 22 CE\n\u003e\n\u003e 1. Se reconoce el derecho de asociación.\n\u003e\n\u003e 2. Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales.\n\u003e\n\u003e 3. Las asociaciones constituidas al amparo de este artículo deberán inscribirse en un registro a los solos efectos de publicidad.\n\u003e\n\u003e 4. Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.\n\u003e\n\u003e 5. Se prohíben las asociaciones secretas y las de carácter paramilitar.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "8a79e44b-d2ab-44f2-97aa-aaef1b6d5560",
+      "questionId": "1fc075c1-040a-4065-80b4-1a703739c7e5",
+      "question": "¿Qué artículos componen el Capítulo Primero \"De los españoles y los extranjeros\" de la Constitución española?",
+      "answers": [
+        { "right": false, "answer": "Del artículo 10 al 13.", "id": 1 },
+        { "right": false, "answer": "Del artículo 10 al 14.", "id": 3 },
+        { "right": true, "answer": "Del artículo 11 al 13.", "id": 0 },
+        { "right": false, "answer": "Del artículo 11 al 14.", "id": 2 }
+      ],
+      "explanation": "El Capítulo Primero \"De los españoles y los extranjeros\" está compuesto por los artículos del 11 al 13.",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "23993d2a-e87c-445f-823e-982c4073cea2",
+      "questionId": "806ec506-8be2-4f69-8297-0f2f0562fb05",
+      "question": "A tenor del artículo 24.2 de la CE, todas las personas tienen derecho a:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Juez ordinario predeterminado por ley, y a obtener en su caso, penas privativas de libertad y medidas orientadas a la reeducación y la reinserción social.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "Juez extraordinario predeterminado por la Constitución, a la defensa y a la asistencia de letrado y a ser informados de la acusación formulada contra ellos.",
+          "id": 1
+        },
+        {
+          "right": true,
+          "answer": "Juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado y a ser informados de la acusación formulada contra ellos.",
+          "id": 2
+        },
+        {
+          "right": false,
+          "answer": "Juez ordinario predeterminado por el Gobierno, a la defensa y a la asistencia de letrado, pero no a ser informados de la acusación formulada contra ellos.",
+          "id": 0
+        }
+      ],
+      "explanation": "Del artículo 24.2 CE se desprenden los siguientes derechos para los ciudadanos:\n\u003e\n2. \"Todos tienen derecho **al Juez ordinario predeterminado por la ley, a la defensa y a la asistencia de letrado, a ser informados de la acusación formulada contra ellos,** a un proceso público sin dilaciones indebidas y con todas las garantías, a utilizar los medios de prueba pertinentes para su defensa, a no declarar contra sí mismos, a no confesarse culpables y a la presunción de inocencia\".",
+      "examOnly": false
+    },
+    {
+      "ebookId": "cec303b4-3840-443d-9882-30f1883db5f2",
+      "sectionId": "2ca01dfd-fc02-4fcf-9a75-e3ce6cc53c24",
+      "questionId": "d863c4fb-db8c-4556-b632-7aeec81871df",
+      "question": "A tenor de lo dispuesto en el artículo 41 de la Constitución española, los poderes públicos mantendrá un régimen público de Seguridad Social para todos los ciudadanos, que garantice:",
+      "answers": [
+        {
+          "right": false,
+          "answer": "Todas las respuestas son incorrectas.",
+          "id": 3
+        },
+        {
+          "right": false,
+          "answer": "La asistencia y las prestaciones sociales suficientes y complementarias.",
+          "id": 2
+        },
+        {
+          "right": true,
+          "answer": "La asistencia y prestaciones sociales suficientes ante situaciones de necesidad.",
+          "id": 0
+        },
+        {
+          "right": false,
+          "answer": "La asistencia y prestaciones complementarias.",
+          "id": 1
+        }
+      ],
+      "explanation": "Artículo 41 CE:\n \u003e\nLos poderes públicos mantendrán un **régimen público de Seguridad Social** para todos los ciudadanos, que garantice la **asistencia y prestaciones sociales suficientes ante situaciones de necesidad**, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres\"",
+      "examOnly": false
+    }
+  ]
+}
