@@ -17,7 +17,7 @@ export const loadDefaultExamRequesStarted = createAction(
 );
 
 export const loadDefaultExamRequesComplete = createAction(
-  examActionsTypes.LoadDefaultExamRequesStarted,
+  examActionsTypes.LoadDefaultExamRequesComplete,
   props<{ exam: Exam }>()
 );
 
