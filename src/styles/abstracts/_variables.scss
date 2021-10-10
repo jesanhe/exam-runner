@@ -1,0 +1,46 @@
+/* Text properties */
+$textBaseSize: 1rem;
+
+$text-xxs: $textBaseSize * 0.625;
+$text-xs: $textBaseSize * 0.75;
+$text-sm: $textBaseSize * 0.875;
+$text-md: $textBaseSize;
+$text-lg: $textBaseSize * 1.25;
+$text-xl: $textBaseSize * 1.5;
+$text-xxl: $textBaseSize * 1.75;
+$text-xxxl: $textBaseSize * 2;
+
+/* Spacer properties */
+$spacer: 1rem;
+
+$space-xxs: $spacer * 0.25;
+$space-xs: $spacer * 0.5;
+$space-sm: $spacer * 0.75;
+$space-md: $spacer;
+$space-lg: $spacer * 1.25;
+$space-xl: $spacer * 1.5;
+$space-xxl: $spacer * 2;
+$space-xxxl: $spacer * 3;
+
+// Breakpoints
+$breakpoints: (
+  "XSmall": "(max-width: 599.99px)",
+  "Small": "(min-width: 600px) and (max-width: 959.99px)",
+  "Medium": "(min-width: 960px) and (max-width: 1279.99px)",
+  "Large": "(min-width: 1280px) and (max-width: 1919.99px)",
+  "XLarge": "(min-width: 1920px)",
+  "Handset":
+    "(max-width: 599.99px) and (orientation: portrait),(max-width: 959.99px) and (orientation: landscape)",
+  "Tablet":
+    "(min-width: 600px) and (max-width: 839.99px) and (orientation: portrait), (min-width: 960px) and (max-width: 1279.99px) and (orientation: landscape)",
+  "Web":
+    "(min-width: 840px) and (orientation: portrait), (min-width: 1280px) and (orientation: landscape)",
+  "HandsetPortrait": "(max-width: 599.99px) and (orientation: portrait)",
+  "TabletPortrait":
+    "(min-width: 600px) and (max-width: 839.99px) and (orientation: portrait)",
+  "WebPortrait": "(min-width: 840px) and (orientation: portrait)",
+  "HandsetLandscape": "(max-width: 959.99px) and (orientation: landscape)",
+  "TabletLandscape":
+    "(min-width: 960px) and (max-width: 1279.99px) and (orientation: landscape)",
+  "WebLandscape": "(min-width: 1280px) and (orientation: landscape)",
+);

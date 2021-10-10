@@ -1,0 +1,57 @@
+@import "./variables";
+
+@mixin text-xxs {
+  font-size: $text-xxs;
+}
+
+@mixin text-xs {
+  font-size: $text-xs;
+}
+
+@mixin text-sm {
+  font-size: $text-sm;
+}
+
+@mixin text-md {
+  font-size: $text-md;
+}
+
+@mixin text-lg {
+  font-size: $text-lg;
+}
+
+@mixin text-xl {
+  font-size: $text-xl;
+}
+
+@mixin text-xxl {
+  font-size: $text-xxl;
+}
+
+@mixin text-xxxl {
+  font-size: $text-xxxl;
+}
+
+@mixin text-overflow-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@mixin breakpoint($breakpointArr...) {
+  @each $breakpoint in $breakpointArr {
+    // If the key exists in the map
+    @if map-has-key($breakpoints, $breakpoint) {
+      // Prints a media query based on the value
+      @media #{inspect(unquote(map-get($breakpoints, $breakpoint)))} {
+        @content;
+      }
+    }
+
+    // If the key doesn't exist in the map
+    @else {
+      @warn "Unfortunately, no value could be retrieved from `#{$breakpoint}`. "
+        + "Available breakpoints are: #{map-keys($breakpoints)}.";
+    }
+  }
+}

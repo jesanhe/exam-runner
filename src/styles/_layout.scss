@@ -1,0 +1,17 @@
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    background: rgb(197, 228, 231);
+    
+    &.light {
+      --backgroundColor: #fff,
+      --textColor: #408bbd,
+      --buttonTextColor: #408bbd,
+      --buttonTextTransform: none,
+      --buttonTextHoverColor: #61b0e7,
+      --buttonColor: #fff,
+      --buttonBorder: 2px solid #fff,
+    }
+
+}
