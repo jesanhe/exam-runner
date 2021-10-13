@@ -1,0 +1,23 @@
+<div
+  class="md:gap-1 flex flex-col w-full h-full"
+  [@questionChange]="animationTrigger"
+>
+  <ng-container *ngIf="question$ | async as question">
+    <h3 class="font-bold">{{ question.question }}</h3>
+
+    <mat-radio-group
+      [formControl]="userAnswer"
+      class="p-4"
+      aria-label="Select an option"
+    >
+      <mat-radio-button
+        *ngFor="let answer of question.answers"
+        class="p-2"
+        [value]="answer.id"
+        >{{ answer.answer }}</mat-radio-button
+      >
+    </mat-radio-group>
+
+    <p *ngIf="showHint" [innerHtml]="question.explanation | markdown"></p>
+  </ng-container>
+</div>

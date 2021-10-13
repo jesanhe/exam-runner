@@ -1,0 +1,10 @@
+:host {
+  @apply p-4 rounded;
+
+  background: theme("colors.primary");
+}
+
+mat-radio-group {
+  display: flex;
+  flex-direction: column;
+}
