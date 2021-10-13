@@ -1,0 +1,22 @@
+<div class="flex justify-center" mat-dialog-content>
+  <p class="flex justify-center">
+    ¿Estas seguro de que quieres acabar el examen?
+  </p>
+</div>
+<div class="flex justify-center gap-4" mat-dialog-actions>
+  <button
+    mat-flat-button
+    cdkFocusInitial
+    class="bg-gray-50 text-textColorLightBg"
+    (click)="onNoClick()"
+  >
+    Continuar examen
+  </button>
+  <button
+    mat-flat-button
+    class="bg-wrongAnswer text-textColorDarkBg"
+    (click)="onYesClick()"
+  >
+    Acabar examen
+  </button>
+</div>
