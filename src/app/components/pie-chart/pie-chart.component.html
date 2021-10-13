@@ -1,0 +1,68 @@
+<h2 class="text-xl">Tu progreso</h2>
+
+<ng-container *ngIf="trainingMode$ | async as trainingMode">
+  <ng-container *ngIf="chartConfig$ | async as chartConfig">
+    <div class="donut-chart">
+      <div
+        *ngIf="!trainingMode.value"
+        [class]="chartConfig.answeredQuestions.color + ' segment'"
+        [style.--offset]="chartConfig.answeredQuestions.offset"
+        [style.--value]="chartConfig.answeredQuestions.percent"
+        [style.--bg]="chartConfig.answeredQuestions.color"
+        [style.--over50]="chartConfig.answeredQuestions.percent > 50 ? 1 : 0"
+      ></div>
+      <div
+        *ngIf="trainingMode.value"
+        [class]="chartConfig.correctQuestions.color + ' segment'"
+        [style.--offset]="chartConfig.correctQuestions.offset"
+        [style.--value]="chartConfig.correctQuestions.percent"
+        [style.--bg]="chartConfig.correctQuestions.color"
+        [style.--over50]="chartConfig.correctQuestions.percent > 50 ? 1 : 0"
+      ></div>
+      <div
+        *ngIf="trainingMode.value"
+        [class]="chartConfig.wrongtQuestions.color + ' segment'"
+        [style.--offset]="chartConfig.wrongtQuestions.offset"
+        [style.--value]="chartConfig.wrongtQuestions.percent"
+        [style.--bg]="chartConfig.wrongtQuestions.color"
+        [style.--over50]="chartConfig.wrongtQuestions.percent > 50 ? 1 : 0"
+      ></div>
+      <div
+        [class]="chartConfig.blankQuestions.color + ' segment'"
+        [style.--offset]="chartConfig.blankQuestions.offset"
+        [style.--value]="chartConfig.blankQuestions.percent"
+        [style.--over50]="chartConfig.blankQuestions.percent > 50 ? 1 : 0"
+      ></div>
+
+      <div class="center-data"></div>
+    </div>
+
+    <ul class="flex self-stretch">
+      <li
+        *ngIf="!trainingMode.value"
+        [class]="chartConfig.answeredQuestions.color"
+      >
+        <p class="text-sm">{{ chartConfig.answeredQuestions.label }}</p>
+        <p class="text-2xl">{{ chartConfig.answeredQuestions.value }}</p>
+      </li>
+      <li
+        *ngIf="trainingMode.value"
+        [class]="chartConfig.correctQuestions.color"
+      >
+        <p class="text-sm">{{ chartConfig.correctQuestions.label }}</p>
+        <p class="text-2xl">{{ chartConfig.correctQuestions.value }}</p>
+      </li>
+      <li
+        *ngIf="trainingMode.value"
+        [class]="chartConfig.wrongtQuestions.color"
+      >
+        <p class="text-sm">{{ chartConfig.wrongtQuestions.label }}</p>
+        <p class="text-2xl">{{ chartConfig.wrongtQuestions.value }}</p>
+      </li>
+      <li [class]="chartConfig.blankQuestions.color">
+        <p class="text-sm">{{ chartConfig.blankQuestions.label }}</p>
+        <p class="text-2xl">{{ chartConfig.blankQuestions.value }}</p>
+      </li>
+    </ul>
+  </ng-container>
+</ng-container>
