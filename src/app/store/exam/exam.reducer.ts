@@ -35,6 +35,6 @@ const examReducerFn = createReducer(
   on(clearEntities, (state) => examAdapter.removeAll(state))
 );
 
-export function examReducer(state = initialState, action: Action) {
+export function examReducer(state: State | undefined, action: Action) {
   return examReducerFn(state, action);
 }

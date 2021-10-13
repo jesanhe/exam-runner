@@ -8,6 +8,7 @@ export enum questionActionsTypes {
   SetUserAnswer = '[Question Store] Set user answer',
   UpdateQuestion = '[Question Store] Update question',
   RemoveQuestion = '[Question Store] Remove question',
+  SetActiveQuestion = '[Question Store] Set Active Question',
   ClearEntities = '[Question Store] Clear question store',
 }
 
@@ -19,6 +20,11 @@ export const addQuestion = createAction(
 export const addQuestions = createAction(
   questionActionsTypes.AddQuestions,
   props<{ questions: Question[] }>()
+);
+
+export const setActiveQuestion = createAction(
+  questionActionsTypes.SetActiveQuestion,
+  props<{ activeQuestionId: string }>()
 );
 
 export const setUserAnswer = createAction(

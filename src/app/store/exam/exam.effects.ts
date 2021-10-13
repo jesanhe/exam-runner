@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Actions, createEffect, ofType } from '@ngrx/effects';
-import { filter, map, mergeMap } from 'rxjs/operators';
+import { map, mergeMap } from 'rxjs/operators';
 import { FakeApiService } from 'src/app/core/fake-api.service';
 import { Exam, Question } from 'src/app/core/models';
 import { addQuestions } from '../question/question.actions';
