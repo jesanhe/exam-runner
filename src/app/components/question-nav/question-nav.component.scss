@@ -1,0 +1,15 @@
+:host {
+  @apply grid md:flex md:flex-row md:overflow-hidden justify-center items-stretch rounded;
+
+  grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+  background: theme("colors.primary");
+}
+
+div {
+  &:hover,
+  &.active {
+    @apply bg-opacity-10 bg-gray-50;
+
+    border-bottom: 4px solid theme("colors.secondary");
+  }
+}

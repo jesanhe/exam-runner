@@ -1,0 +1,48 @@
+<!-- <ng-container *ngIf="questionsInExam$ | async as questionsInExam"> -->
+<ng-container *ngIf="currentStep$ | async as currentStep">
+  <ng-container *ngIf="questionEntities$ | async as questionEntities">
+    <ng-container *ngIf="trainingMode$ | async as trainingMode">
+      <div
+        *ngFor="let item of questionsInExam; index as idx"
+        class="
+          flex
+          items-center
+          justify-center
+          flex-auto
+          cursor-pointer
+          select-none
+        "
+        [ngClass]="{ active: idx === currentStep.value }"
+        (click)="goToStep(idx)"
+      >
+        <p class="p-4">
+          <span
+            class="
+              flex
+              justify-center
+              items-center
+              rounded-full
+              w-7
+              h-7
+              border-2 border-blueGray-300
+            "
+            [ngClass]="{
+              'border-notAnswer':
+                questionEntities[item]?.userAnswer === undefined,
+              'border-answer':
+                questionEntities[item]?.userAnswer !== undefined &&
+                !trainingMode.value,
+              'border-correctAnswer':
+                isCorrectQuestion(questionEntities[item]) && trainingMode.value,
+              'border-wrongAnswer':
+                isWrongQuestion(questionEntities[item]) && trainingMode.value
+            }"
+          >
+            {{ idx + 1 }}
+          </span>
+        </p>
+      </div>
+    </ng-container>
+  </ng-container>
+</ng-container>
+<!-- </ng-container> -->
