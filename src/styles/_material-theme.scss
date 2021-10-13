@@ -1,0 +1,69 @@
+@use "~@angular/material" as mat;
+@include mat.core();
+
+$primary-palette: (
+  50: theme("colors.teal.50"),
+  100: theme("colors.teal.100"),
+  200: theme("colors.teal.200"),
+  300: theme("colors.teal.300"),
+  400: theme("colors.teal.400"),
+  500: theme("colors.teal.500"),
+  600: theme("colors.teal.600"),
+  700: theme("colors.teal.700"),
+  800: theme("colors.teal.800"),
+  900: theme("colors.teal.900"),
+  contrast: (
+    50: theme("colors.teal.800"),
+    100: theme("colors.teal.800"),
+    200: theme("colors.teal.800"),
+    300: theme("colors.teal.800"),
+    400: theme("colors.teal.800"),
+    500: theme("colors.teal.50"),
+    600: theme("colors.teal.50"),
+    700: theme("colors.teal.50"),
+    800: theme("colors.teal.50"),
+    900: theme("colors.teal.50"),
+  ),
+);
+
+$secondary-palette: (
+  50: theme("colors.emerald.50"),
+  100: theme("colors.emerald.100"),
+  200: theme("colors.emerald.200"),
+  300: theme("colors.emerald.300"),
+  400: theme("colors.emerald.400"),
+  500: theme("colors.emerald.500"),
+  600: theme("colors.emerald.600"),
+  700: theme("colors.emerald.700"),
+  800: theme("colors.emerald.800"),
+  900: theme("colors.emerald.900"),
+  contrast: (
+    50: theme("colors.emerald.800"),
+    100: theme("colors.emerald.800"),
+    200: theme("colors.emerald.800"),
+    300: theme("colors.emerald.800"),
+    400: theme("colors.emerald.800"),
+    500: theme("colors.emerald.50"),
+    600: theme("colors.emerald.50"),
+    700: theme("colors.emerald.50"),
+    800: theme("colors.emerald.50"),
+    900: theme("colors.emerald.50"),
+  ),
+);
+
+$exam-runner-primary: mat.define-palette($primary-palette);
+$exam-runner-accent: mat.define-palette($secondary-palette);
+
+$exam-runner-warn: mat.define-palette(mat.$red-palette);
+
+$exam-runner-theme: mat.define-dark-theme(
+  (
+    color: (
+      primary: $exam-runner-primary,
+      accent: $exam-runner-accent,
+      warn: $exam-runner-warn,
+    ),
+  )
+);
+
+@include mat.all-component-themes($exam-runner-theme);
