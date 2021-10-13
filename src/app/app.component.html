@@ -1,1 +1,57 @@
-<router-outlet></router-outlet>
+<header
+  class="justify-self-center text-6xl row-start-1 md:col-start-2 md:col-span-4"
+>
+  Examen
+</header>
+
+<ng-container *ngIf="isExamEnd$ | async as isExamEnd">
+  <ng-container *ngIf="!isExamEnd.value; else examEnded">
+    <main [@byeExam]="animationTrigger" #main>
+      <router-outlet></router-outlet>
+    </main>
+
+    <footer
+      [@byeExam]="animationTrigger"
+      class="
+        bg-primary
+        p-4
+        rounded
+        flex flex-col
+        gap-4
+        row-start-3
+        md:items-center md:flex-row md:justify-between md:gap-0
+      "
+    >
+      <button
+        mat-flat-button
+        class="bg-gray-50 text-textColorLightBg"
+        (click)="previousStep()"
+      >
+        Pregunta anterior
+      </button>
+
+      <button
+        mat-flat-button
+        class="bg-wrongAnswer text-textColorDarkBg"
+        (click)="finishExam()"
+      >
+        Terminar Examen
+      </button>
+
+      <button
+        mat-flat-button
+        class="bg-secondary text-textColorDarkBg"
+        (click)="nextStep()"
+      >
+        Siguiente pregunta
+      </button>
+    </footer>
+  </ng-container>
+
+  <ng-template #examEnded>
+    <app-pie-chart
+      [@helloResults]="animationTrigger"
+      class="w-full md:w-72 md:self-center"
+    ></app-pie-chart>
+  </ng-template>
+</ng-container>

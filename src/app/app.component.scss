@@ -1,6 +1,14 @@
-:host {
-  display: block;
+header,
+footer {
+  flex: 0;
+}
 
-  height: 100vh;
-  width: 100vw;
+main {
+  transition: all 5s ease-in-out 1s;
+
+  flex: 1 0 auto;
+}
+
+button.mat-flat-button {
+  @apply text-xl px-4 py-2 rounded;
 }
