@@ -105,8 +105,6 @@ export class QuestionComponent implements OnInit, OnDestroy {
             activeQuestionId: this.questionArrIds[step],
           });
 
-          console.log('waka');
-
           this.question$ = this.questionStore
             .getQuestionById(this.questionArrIds[step]!)
             .pipe(
