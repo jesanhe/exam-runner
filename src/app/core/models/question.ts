@@ -23,6 +23,7 @@ export interface QuestionInterface {
   explanation: string;
   examOnly: boolean;
   testId?: string;
+  userAnswer?: number;
 }
 
 export class Question implements QuestionInterface {
@@ -34,6 +35,7 @@ export class Question implements QuestionInterface {
   explanation!: string;
   examOnly!: boolean;
   testId?: string;
+  userAnswer?: number;
 
   constructor(data?: QuestionInterface) {
     Object.assign(this, data);

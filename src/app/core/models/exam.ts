@@ -8,7 +8,7 @@ export interface ExamInterface {
     emptyCoef: number;
     maxQualification: number;
   };
-  questions?: Partial<Question>[];
+  questions: Partial<Question>[];
 }
 
 export class Exam implements ExamInterface {
@@ -19,7 +19,7 @@ export class Exam implements ExamInterface {
     emptyCoef: number;
     maxQualification: number;
   };
-  questions?: Partial<Question>[];
+  questions: Partial<Question>[] = [];
 
   constructor(data?: ExamInterface) {
     Object.assign(this, data);
